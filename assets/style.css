@@ -5,7 +5,7 @@
 }
 
 body {
-    background: img('red');
+    background-color: red;
     font-family: Bai Jamjuree;
 }
 
